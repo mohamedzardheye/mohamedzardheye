@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Zardeye</h1>
 <h3 align="center">Software Engineer from Planet Blue</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on multiple Freelance projects
+- 🔭 I’m currently working on multiple Enterprise projects
 - 🌱 I’m currently learning Mobile App Development
+- 💬 Ask me about Android , Flutter, MERN , .NET
 - 📚 I'm a Software Engineer from East Africa
+- 
 - 📫 How to reach me: 
 
 
@@ -24,6 +27,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-zardeye-95421a128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-zardeye-95421a128" height="30" width="40" /></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedzardheye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamedzardheye" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedzardheye&show_icons=true&locale=en&theme=tokyonight" alt="mohamedzardheye" /></p>
 
 
 <!--
