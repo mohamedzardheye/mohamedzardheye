@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimsina&label=Profile%20views&color=0e75b6&style=flat" alt="akmadan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akmadan&label=Profile%20views&color=0e75b6&style=flat" alt="akmadan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmadan" alt="akmadan" /></a> </p>
 
