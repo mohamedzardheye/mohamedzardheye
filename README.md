@@ -10,14 +10,7 @@
 - 💬 Ask me about Android , Flutter, MERN , .NET
 - 📚 I'm a Software Engineer from East Africa
 - 
-- 📫 How to reach me: 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akmadan&label=Profile%20views&color=0e75b6&style=flat" alt="akmadan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmadan" alt="akmadan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Flutter, Android Developement, Node/Express,Reactjs, Typescript, .Net, Software Engineering**
 
@@ -26,6 +19,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-zardeye-95421a128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-zardeye-95421a128" height="30" width="40" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akmadan&label=Profile%20views&color=0e75b6&style=flat" alt="akmadan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmadan" alt="akmadan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedzardheye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohamedzardheye" /></p>
 
