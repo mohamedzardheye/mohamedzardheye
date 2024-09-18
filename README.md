@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on multiple Freelance projects
 - 🌱 I’m currently learning Mobile App Development
-- 📚 I'm an Electronics and Communications Engineer from Nepal
+- 📚 I'm a Software Engineer from East Africa
 - 📫 How to reach me: 
 
 
