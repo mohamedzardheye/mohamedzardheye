@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on multiple Enterprise projects
 - 🌱 I’m currently learning Mobile App Development
-- 💬 Ask me about Android , Flutter, MERN , .NET
 - 📚 I'm a Software Engineer from East Africa
-- 
-
-
 - 💬 Ask me about **Flutter, Android Developement, Node/Express,Reactjs, Typescript, .Net, Software Engineering**
 
 - 📫 How to reach me **mohamedzardheye@gmail.com**
