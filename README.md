@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on multiple Enterprise projects
-- 🌱 I’m currently learning Mobile App Development
+- 🌱 I’m currently Focusing Mobile App Development
 - 📚 I'm a Software Engineer from East Africa
 - 💬 Ask me about **Flutter, Android Developement, Node/Express,Reactjs, Typescript, .Net, Software Engineering**
 
